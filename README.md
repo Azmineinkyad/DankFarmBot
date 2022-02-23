@@ -6,7 +6,13 @@ This program is automated to farm you dank memer resources! check out my [YouTub
 ## Step 1:
 - Download all the files provided and keep them in the same folder
 
-## Step 2:
+##Step 2:
+-Download a programming software like `PyCharm` or `Visual Code Studio`
+Here is the links
+PyCharm: https://www.jetbrains.com/pycharm/download/#section=windows
+Visual Code Studio: https://code.visualstudio.com/download
+
+## Step 3:
 
 - Go to your terminal/command prompt/command line and type in `pip install pyautogui Pillow`. Then do, `pip install playsound`
 
