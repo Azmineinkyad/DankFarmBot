@@ -2,7 +2,7 @@
 This program is automated to farm you dank memer resources! check out my [YouTube channel](]https://www.youtube.com/channel/UCE93p8FhP9cYuqAkDnkpgdA), GalvanArt
 > Here is how to go about using the code yourself **_(est time for completion 5-10 mins)_**:
 > **MAKE SURE PYTHON 3.8 AND ABOVE IS ALREADY INSTALLED ON YOUR COMPUTER BEFORE DOING THIS!**
-
+>- **Warning ⚠️, As `Dank Memer Rule`, your account may banned for using this script we will not be held responsible for your account. Do it on your own risk⚠️**
 ## Step 1:
 - Download all the files provided and keep them in the same folder
 
