@@ -1,14 +1,14 @@
 import time
 import random
 import pyautogui as pg
-from playsound import playsound
+from playsound import playsound                  # `If you dont want to playsound just backspace this line`
 
 
-# ///======================================================================Buffer Time=====================================================================================///
+# `///======================================================================Buffer Time=====================================================================================///`
 time.sleep(5)
 
 
-# ///====================================================================Global Variables==================================================================================///
+# `///====================================================================Global Variables==================================================================================///`
 
 
 c_wrk = ["pls hl", "pls search", "pls hl"]
@@ -25,10 +25,10 @@ item_dict = {'ant': 1, 'apple': 1, 'boar': 1, 'candy': 1, 'coin': 1,
              }
 
 
-# ///======================================================================Global Functions================================================================================///
+# `///======================================================================Global Functions================================================================================///`
 
 
-# ping requests need two enter commands
+# _ping requests need two enter commands_
 
 
 def ping():
@@ -37,11 +37,11 @@ def ping():
 
 
 # For gifting every item in inventory from dummy account
-
+ # `Pls gift no longer works with Dank Memer Update 9.10.5`
 
 def gift_all(dct):
     for item, quantity in dct.items():
-        pg.typewrite(f'pls gift {quantity} {item} @Abid')
+        pg.typewrite(f'pls gift {quantity} {item} @Dummy_Account')
         ping()
         time.sleep(random.randint(18,24))
 
@@ -67,7 +67,7 @@ def gamble_search(x):
         time.sleep(random.randint(12,15))
 
 
-# ///======================================================================Program Start Point==============================================================================///
+# `///======================================================================Program Start Point==============================================================================///`
 
 
 for j in range(2):
